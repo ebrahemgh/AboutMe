@@ -1,6 +1,6 @@
 "use strict";
 let username = prompt("what is your name");
-document.write(<h2>username</h2>);
+document.write(username);
 // first question
 let age = prompt("am i bigger than 24 years old ? yes or no");
 
