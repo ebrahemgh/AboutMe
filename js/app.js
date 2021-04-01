@@ -152,4 +152,5 @@ function counterfun() {
     
     }
 }
+counterfun(food);
 alert("your score is:" + score);
