@@ -16,7 +16,7 @@ body header nav{
     height: 30px;
     display: inline-block;
     right: 100px;
-    top: 5%;
+    top: 3%;
 }
 .seconed{
     position: absolute;
@@ -24,14 +24,31 @@ body header nav{
     height: 30px;
     display: inline-block;
     right: 40px;
-    top: 5%;
+    top: 3%;
 }
 #one{
-    
-    
+    background-color: chocolate;
+    width: 10%;
+    height: 10;
     width: 15%;
+    margin-bottom: 10%;
     
 }
 body div img{
-    margin-left: 15%;
+    position: absolute;
+    left: 300px;
+    width: 1000px;
+}
+.lione{
+    margin: 10px;
+
+}
+#socenedh2{
+    font-size:30px;
+}
+.seconedli{
+    margin: 5px;
+    background-color: rgb(164, 208, 245);
+    width: 100px;
+
 }
